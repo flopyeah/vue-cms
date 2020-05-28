@@ -1,4 +1,4 @@
-# vue-cms - A Vue.js Front-End CMS with Symfony/API Plateform Back-End
+# vue-cms - Vue.js Front-End CMS with Symfony/API Plateform Back-End
 
 
 ## Build Setup
